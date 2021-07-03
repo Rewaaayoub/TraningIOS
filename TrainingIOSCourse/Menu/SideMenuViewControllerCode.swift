@@ -6,8 +6,8 @@
 //
 
 import UIKit
-
-class SideMenuViewControllerCode: UIViewController {
+import LGSideMenuController
+class SideMenuViewControllerCode: LGSideMenuController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
